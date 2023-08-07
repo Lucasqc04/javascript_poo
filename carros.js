@@ -29,7 +29,7 @@ var carros = [
         velocidade: 10,
         controle: 8.3,
         aceleração: 9.4,
-        arrancada: 9.1,
+        arrancada: 9.2,
         frenagem: 10,
         preço: 380000,
         cor: "Amarelo",
