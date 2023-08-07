@@ -2,7 +2,7 @@ var carros = [
     {
         marca: "Ferrari",
         modelo: "LaFerrari",
-        velocidade: 2,
+        velocidade: 8.3,
         controle: 8.8,
         aceleração: 9.6,
         arrancada: 9.3,
@@ -42,7 +42,7 @@ var carros = [
         controle: 8.2,
         aceleração: 10,
         arrancada: 10,
-        frenagem: 9.9,
+        frenagem: 9.8,
         preço: 1080000,
         cor: "Preto e Laranja",
         img: 'carros_imagem/Bugatti_Veyron.webp'
